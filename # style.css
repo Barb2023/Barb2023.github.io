@@ -2,3 +2,14 @@ body{
     background-color: aquamarine;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+h1{
+    color:darkblue;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
+
+ul{
+    color: burlywood
+    ;
+}
