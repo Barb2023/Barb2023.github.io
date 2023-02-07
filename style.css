@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(71, 145, 163);
+    background-color: gray;
     font-family:'Times New Roman';
 }
 
 h1{
-    color:darkblue;
-    letter-spacing: 2px;
+    color:gray;
+    letter-spacing: 1px;
     text-decoration: underline;
 }
 
@@ -17,14 +17,14 @@ ol{
 
 
 table{
-    border:1px solid black;
+    border:1px black;
     width: 100%;
-    background: grey
+    background: black
 }
 
 td{
     border:1px solid black;
-    background: white;
+    background: black;
 }
 
 thread, tfoot{
